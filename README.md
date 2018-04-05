@@ -14,7 +14,7 @@ In order to setup, clone or fork the repo and run `npm install` to install all t
 
 ### [Express](https://github.com/RyanFitzgerald/SEGCapstone/wiki/Project)
 
-### [Semantic CSS](https://react.semantic-ui.com/introduction)
+### [Semantic React](https://react.semantic-ui.com/introduction)
 
 ### [Watson Discovery](https://www.ibm.com/watson/services/discovery/)
 
