@@ -1,6 +1,6 @@
 # Project Structure
 
-Below is a general overview of the most important directories and files in the project.
+Explanation of architecture and structure of the most important directories and files in the project.
 
 ```
 ├── .env #Watson credentials
