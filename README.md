@@ -1,6 +1,6 @@
 # Moneyball-COMM 493
 
-This repository contains the code for the COMM 493 project by Andrew Liu. To view the full project structure, please visit the projectstructure.md file in the repository.
+This repository contains the code for the COMM 493 project by Andrew Liu. To view the full project structure, please visit the [Project Summary](https://github.com/andrewliu96/money_ball/blob/master/PROJECTSTRUCTURE.md).
 
 ## Setup Instructions
 
