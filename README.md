@@ -6,7 +6,7 @@ This repository contains the code for the COMM 493 project by Andrew Liu. To vie
 
 In order to setup, clone or fork the repo and run `npm install` to install all the required dependencies in the root. Once this is finished, run `npm start` in the root directory.
 
-## Built with
+## Built With
 
 ### [React](https://reactjs.org/)
 
