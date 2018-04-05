@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project Structure and Code Documentation
 ├── .env #Watson credentials
 ├── app.js # Entry point of the application
@@ -41,3 +42,6 @@ Project Structure and Code Documentation
 │   └── layouts # Layout for page
 │       └── default.js
 ├── test # Jest test files
+=======
+# money_ball
+>>>>>>> 684b50350f7ae46bdeef90a94566c69a069826a5
