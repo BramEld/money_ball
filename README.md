@@ -20,9 +20,9 @@ In order to setup, clone or fork the repo and run `npm install` to install all t
 
 ### [Jest](https://facebook.github.io/jest/)
 
-## Project and Code sturcture
+## Project and Code Structure
 
-### [Project Summary](https://github.com/RyanFitzgerald/SEGCapstone/wiki/Project-Summary)
+### [Project Summary](https://github.com/andrewliu96/money_ball/blob/master/PROJECTSTRUCTURE.md)
 
 This page includes the general project summary.
 
