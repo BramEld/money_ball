@@ -20,6 +20,8 @@ In order to setup, clone or fork the repo and run `npm install` to install all t
 
 ### [Jest](https://facebook.github.io/jest/)
 
+### [Charts.js](https://www.chartjs.org/)
+
 ## Project and Code Structure
 
 ### [Project Summary](https://github.com/andrewliu96/money_ball/blob/master/PROJECTSTRUCTURE.md)
