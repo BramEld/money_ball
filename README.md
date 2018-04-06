@@ -12,7 +12,7 @@ In order to setup, clone or fork the repo and run `npm install` to install all t
 
 ### [Node](https://nodejs.org/en/)
 
-### [Express](https://github.com/RyanFitzgerald/SEGCapstone/wiki/Project)
+### [Express](https://expressjs.com/)
 
 ### [Semantic React](https://react.semantic-ui.com/introduction)
 
