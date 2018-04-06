@@ -6,6 +6,10 @@ This repository contains the code for the COMM 493 project by Andrew Liu. To vie
 
 In order to setup, clone or fork the repo and run `npm install` to install all the required dependencies in the root. Once this is finished, run `npm start` in the root directory.
 
+## Data
+
+This project contains sample data related to the performance of select NBA players to create greater insights for fantasy draft decisions.
+
 ## Built With
 
 ### [React](https://reactjs.org/)
@@ -27,4 +31,8 @@ In order to setup, clone or fork the repo and run `npm install` to install all t
 ### [Project Summary](https://github.com/andrewliu96/money_ball/blob/master/PROJECTSTRUCTURE.md)
 
 This page includes the general project summary.
+
+
+
+
 
